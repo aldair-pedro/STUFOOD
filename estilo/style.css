@@ -103,7 +103,7 @@ main{
     margin:50px;
 }
 .BegaSimples img{
-    max-width: 400px;
+    max-width: 350px;
     border-radius: 50px;
     filter: drop-shadow(3px 3px 7px var(--cor2));
 }
@@ -150,12 +150,12 @@ section div.paragrafo{
     color:var(--cor3);
 }
 .Conteiner-BegaE img{
-    max-width: 400px;
+    max-width: 350px;
     border-radius: 50px 50px 0px 0px;
 }
 .Conteudo-BegaE{
     background-color:var(--cor6);
-    max-width: 400px;
+    max-width: 350px;
     padding: 20px;
     margin-top:-25px ;
     border-radius: 0px 0px 60px 60px;
@@ -185,13 +185,13 @@ section div.paragrafo{
     color:var(--cor3);
 }
 .Conteiner-Cachorro img{
-    max-width: 400px;
+    max-width: 350px;
     border-radius: 50px 50px 0px 0px;
     margin-top: 25px;
 }
 .Conteudo-CachorroE{
     background-color:var(--cor6);
-    max-width: 400px;
+    max-width: 350px;
     padding: 20px;
     margin-top:-10px ;
     border-radius: 0px 0px 60px 60px;
@@ -221,13 +221,13 @@ section div.paragrafo{
     color:var(--cor3);
 }
 .Conteiner-BegaDE img{
-    max-width: 400px;
+    max-width: 350px;
     border-radius: 50px 50px 0px 0px;
     margin-top: 25px;
 }
 .Conteudo-BegaDE{
     background-color:var(--cor6);
-    max-width: 400px;
+    max-width: 350px;
     padding: 20px;
     margin-top:-5px ;
     border-radius: 0px 0px 60px 60px;
@@ -264,6 +264,7 @@ section.Contactos h2{
     text-shadow: 0.5px 1px 0px var(--cor6);
     text-transform: uppercase;
     text-align: left;
+    margin-bottom: 10px;
 }
 section.Contactos h1{
     font-family: var(--padrao);
@@ -273,6 +274,7 @@ section.Contactos h1{
     text-transform: uppercase;
     text-align: left;
     margin-bottom: 10px;
+    
 }
 section.Contactos strong{
     color: var(--cor2);
@@ -296,8 +298,8 @@ section div.localizacao,.horario,.telefone{
     justify-content: center;
 }
 .redes-sociais img{
-    max-width: 80px;
-    max-height: 80px;
+    max-width: 60px;
+    max-height: 60px;
     padding: 5px;
     border-radius: 50px;
     border: 1px solid white;
