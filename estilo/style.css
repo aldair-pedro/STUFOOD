@@ -74,6 +74,7 @@ main{
     text-shadow: 0.5px 1px 0px var(--cor6);
     font-family: var(--destaque);
     text-transform: uppercase;
+    flex: 1 1 auto;
 }
 .link-topo{
     display: flex;
