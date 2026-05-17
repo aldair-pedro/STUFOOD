@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+
+@media screen and (max-width:600px){
+    .link-topo{
+        flex-flow: column;
+    }
+    section.Localizar{
+        flex-flow: column;
+        align-items: center;
+    }
+
+
+}
