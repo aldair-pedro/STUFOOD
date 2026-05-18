@@ -127,8 +127,7 @@ main{
 section div.texto h2{
     font-family: var(--destaque);
     color: var(--cor2);
-    padding: 10px;
-    text-align: left;
+    padding:10px;
     font-weight: bold;
     text-shadow: 0.5px 1px 0px var(--cor6);
     text-transform: uppercase;
@@ -138,7 +137,6 @@ section div.texto h1{
     font-family: var(--destaque);
     color: var(--cor2);
     padding: 20px;
-    text-align: center;
     text-transform: uppercase;
     font-size: medium;
 }
