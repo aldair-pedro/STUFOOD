@@ -18,20 +18,22 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    outline: 1px solid red;
 }
-html{
+html,body{
     height: 100vh;
-    width: 97vw;
+    width: 100vw;
+    overflow-x: hidden;
 }
 body{
-    width: 97vw;
     font-family: var(--padrao);
     font-size: 1em;
     background-color: var(--cor5);
     color: white;
 }
+
 header{
-    width: 97vw;
+    width: 100vw;
     height: 150px;
     background-color:var(--cor6) ;
     padding: 10px;
@@ -46,7 +48,7 @@ header>div img{
 }
 main{
     width: 97vw;
-    max-width: 1200px;
+    /*max-width: 1200px;*/
     /*background-color: bisque;*/
     margin:auto;
     padding: 10px; 
@@ -327,6 +329,9 @@ section div.localizacao,.horario,.telefone{
     padding: 10px;
     align-items: flex-end;
     margin-top: 10px;
+}
+footer{
+    background-color: var(--cor6);
 }
 footer div.developer a{
     display: flex;
