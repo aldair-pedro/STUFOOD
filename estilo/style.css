@@ -43,7 +43,7 @@ header{
 }
 header>div img{
     max-width: 150px;
-    filter:drop-shadow(--cor1);  
+    box-shadow:var(--cor1);  
 }
 main{
     width: 97vw;
