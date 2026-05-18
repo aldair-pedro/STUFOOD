@@ -181,7 +181,7 @@ section div.paragrafo{
     text-align: left;
     font-family: var(--padrao);
     font-size: 1.1em;
-    text-shadow: 3px 3px 0px var(--cor5);
+    text-shadow: 2px 2px 0px var(--cor5);
     text-transform:capitalize;
     line-height: 1.3em;
     color: rgba(255, 255, 255, 0.629);
@@ -217,7 +217,7 @@ section div.paragrafo{
     text-align: left;
     font-family: var(--padrao);
     font-size: 1.1em;
-    text-shadow: 3px 3px 0px var(--cor5);
+    text-shadow: 2px 2px 0px var(--cor5);
     text-transform:capitalize;
     line-height: 1.3em;
     color: rgba(255, 255, 255, 0.629);
@@ -247,13 +247,13 @@ section div.paragrafo{
     margin-bottom: 10px;
     font-family: var(--destaque);
     text-transform: uppercase;
-    text-shadow: 3px 3px 0px var(--cor5);
+    text-shadow: 2px 2px 0px var(--cor5);
 }
 .Conteudo-BegaDE p{
     text-align: left;
     font-family: var(--padrao);
     font-size: 1.1em;
-    text-shadow: 3px 3px 0px var(--cor5);
+    text-shadow: 2px 2px 0px var(--cor5);
     text-transform:capitalize;
     line-height: 1.3em;
     color: rgba(255, 255, 255, 0.629);
