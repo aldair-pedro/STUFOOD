@@ -18,7 +18,6 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    outline: 1px solid red;
 }
 html,body{
     height: 100vh;
@@ -44,7 +43,7 @@ header{
 }
 header>div img{
     max-width: 150px;
-    box-shadow:white;  
+    filter:drop-shadow(--cor1);  
 }
 main{
     width: 97vw;
